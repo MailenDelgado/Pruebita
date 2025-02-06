@@ -81,5 +81,3 @@ int verTope(const tpila *p, void *datotraido, unsigned tamdato){ ///como sacar d
     return OK;
 
 }
-///AGREGADO ALGO NUEVO
-///Quiero actualizaarlo
