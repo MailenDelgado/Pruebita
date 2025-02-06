@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1738684412 source:c:\users\usuario\desktop\pila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PilaEst.h"
+
+1738684236 c:\users\usuario\desktop\pila\pilaest.h
+	<stdio.h>
+	<stdlib.h>
+
+1738684678 source:c:\users\usuario\desktop\pila\pilaestfunc.c
+	"PilaEst.h"
+	<string.h>
+
+1738684678 source:c:\users\usuario\desktop\tda\pilaest\pilaestfunc.c
+	"PilaEst.h"
+	<string.h>
+
+1738684236 c:\users\usuario\desktop\tda\pilaest\pilaest.h
+	<stdio.h>
+	<stdlib.h>
+
